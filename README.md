@@ -11,7 +11,7 @@ This project implements a rogue captive portal attack device using the ESP8266 p
 ## Features
 
 - **Captive Portal:** Intercepts DNS look-ups and presents fake login interfaces for specified URLs.
-- **Login Interfaces:** Currently implements Google, Facebook, and Yahoo login masks, with the Google sign-in template as the default.
+- **Login Interfaces:** Currently implements Google login masks.
 - **Credential Harvesting:** Captured login data is stored in the ESP8266 flash memory.
 - **LED Indicators:** The built-in LED blinks to confirm successful start-up (10 blinks) and when a user logs in (5 blinks).
 
