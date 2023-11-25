@@ -19,23 +19,28 @@ This project implements a rogue captive portal attack device using the ESP8266 p
 
 ### Setting Up the Board
 1. Select the board type as NodeMCU 1.0 (ESP-12E).
+
 ![Alt text](image.png)
 
 2. Export the code to the ESP8266.
+
 ![Alt text](image-1.png)
-![Alt text](image-2.png)
 
 3. After the export, verify that the process is successful in the terminal.
+
 ![Alt text](image-3.png)
 
 4. Connect to the WiFi.
+
 ![Alt text](image-4.png)
 
 5. You should be redirected to a Gmail login page.
-![Alt text](image-6.png)
+
+![Alt text](image-8.png)
 
 
 6. View captured information in the terminal after clicking "Sign In."
+
 ![Alt text](image-7.png)
 
 ### Hardware Requirements
