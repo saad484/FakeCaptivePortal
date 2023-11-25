@@ -69,6 +69,6 @@ This project implements a rogue captive portal attack device using the ESP8266 p
 
 ## Viewing Captured Credentials
 
-- Captured login credentials can be viewed by visiting `RandomDomain.com/logs`.
+- Captured login credentials can be viewed by visiting `RandomDomain.com/logs` or in the Serial Terminal.
 
 
