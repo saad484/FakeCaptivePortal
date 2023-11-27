@@ -2,7 +2,7 @@
 
 ## Disclaimer
 
-**Attention: The misuse of this software for unauthorized activities can result in criminal consequences. The author(s) will not be held responsible for any illegal or unethical use of this software. Use it responsibly and only in compliance with applicable laws and regulations.**
+**Attention: The misuse of this software for unauthorized activities can result in criminal consequences. The author will not be held responsible for any illegal or unethical use of this software. Use it responsibly and only in compliance with applicable laws and regulations.**
 
 ## Overview
 
